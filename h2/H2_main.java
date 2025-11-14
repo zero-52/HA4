@@ -4,9 +4,9 @@ public class H2_main {
 	public static void main (String [] args) {
 		boolean x = true;
 		boolean y = true;
-		boolean a;
-		boolean b;
-		boolean c;
+		boolean a = false;
+		boolean b = true;
+		boolean c = false;
 		int input = 1; //0,1,10 oder 11
 		
 		if (input == 10 || input == 11) {
